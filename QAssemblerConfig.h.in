@@ -1,0 +1,7 @@
+// compile-time configuration options for QAssembler
+#define QAssembler_VERSION_MAJOR @QAssembler_VERSION_MAJOR@
+#define QAssembler_VERSION_MINOR @QAssembler_VERSION_MINOR@
+
+#define LOGGING_SEVERITY @LOGGING_SEVERITY@
+
+#cmakedefine USE_LOG4CXX

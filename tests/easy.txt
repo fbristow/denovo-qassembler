@@ -1,0 +1,2 @@
+[ AAA ] -- 1 --> [ ACCCTT ]
+[ G ] -- 1 --> [ ACCCTT ]
