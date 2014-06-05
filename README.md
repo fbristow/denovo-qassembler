@@ -3,27 +3,26 @@ denovo-qassembler
 `denovo-qassembler` is a software package designed to reconstruct quaispecies variants from a set of next-generation
 sequencing reads without using a reference sequence.
 
-* [Download][]
-    * [Older Versions][]
-* [Building][]
-    * [Dependencies][]
-    * [Running cmake][]
-    * [Disabling log4cxx][]
-* [Running][]
-    * [Examples][]
-* [Contact][]
+* [Recent Changes](#recent-changes)
+* [Building](#building)
+    * [Dependencies](#dependencies)
+    * [Running cmake](#running-cmake)
+    * [Disabling log4cxx](#disabling-log4cxx)
+* [Running](#running)
+    * [Examples](#examples)
+* [Contact](#contact)
 
 Download
 --------
 You can download the source code for the current release of `denovo-qassembler` below:
 
-[`denovo qassembler 1.0.3`](denovo-qassembler-1.0.3.tar.gz)
+[`denovo qassembler 1.0.3`](http://www.corefacility.ca/denovo-qassembler/denovo-qassembler-1.0.3.tar.gz)
 
 ### Older Versions
 
-[`denovo qassembler 1.0.1`](denovo-qassembler-1.0.1.tar.gz)
+[`denovo qassembler 1.0.1`](http://www.corefacility.ca/denovo-qassembler/denovo-qassembler-1.0.1.tar.gz)
 
-[`denovo qassembler 1.0.2`](denovo-qassembler-1.0.2.tar.gz)
+[`denovo qassembler 1.0.2`](http://www.corefacility.ca/denovo-qassembler/denovo-qassembler-1.0.2.tar.gz)
 
 
 Recent Changes
